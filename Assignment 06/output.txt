@@ -1,0 +1,150 @@
+PS C:\Users\HP\Rupesh\PICT\TE SEM 1\LP1\SPOS Lab\Assignment 06> python -u "c:\Users\HP\Rupesh\PICT\TE SEM 1\LP1\SPOS Lab\Assignment 06\31124_Rupesh_LP1_Assignment_06.py"
+Enter number of blocks: 5
+Enter number of processes: 5
+Block 1 size: 10
+Block 2 size: 20
+Block 3 size: 30
+Block 4 size: 40
+Block 5 size: 50
+Process 1 size: 4
+Process 2 size: 15
+Process 3 size: 25
+Process 4 size: 75
+Process 5 size: 98
+
+Choose the method of fitting you want to use:
+    1. First fit
+    2. Next fit
+    3. Best fit
+    4. Worst fit
+    5. Exit
+1
+
+Process  Process time   block        fragmentation
+0         4              1            10
+1         15             2            20
+2         25             3            30
+3         75             Waiting...   -
+4         98             Waiting...   -
+
+Choose the method of fitting you want to use:
+    1. First fit
+    2. Next fit
+    3. Best fit
+    4. Worst fit
+    5. Exit
+2
+
+Process  Process time   block        fragmentation
+0         4              Waiting...   -
+1         15             Waiting...   -
+2         25             Waiting...   -
+
+Choose the method of fitting you want to use:
+    1. First fit
+    2. Next fit
+    3. Best fit
+    4. Worst fit
+    5. Exit
+3
+
+Process  Process time   block        fragmentation
+0         4              1            6
+1         15             2            5
+2         25             3            5
+3         75             Waiting...   -
+4         98             Waiting...   -
+
+Choose the method of fitting you want to use:
+    1. First fit
+    2. Next fit
+    3. Best fit
+    4. Worst fit
+    5. Exit
+4
+
+Process  Process time   block        fragmentation
+0         4              5            46
+1         15             5            31
+2         25             4            15
+3         75             Waiting...   -
+4         98             Waiting...   -
+
+Choose the method of fitting you want to use:
+    1. First fit
+    3. Best fit
+    4. Worst fit
+    5. Exit
+5
+Thank you
+PS C:\Users\HP\Rupesh\PICT\TE SEM 1\LP1\SPOS Lab\Assignment 06> python -u "c:\Users\HP\Rupesh\PICT\TE SEM 1\LP1\SPOS Lab\Assignment 06\31124_Rupesh_LP1_Assignment_06.py"
+Enter number of blocks: 4
+Enter number of processes: 3
+Block 1 size: 1000
+Block 2 size: 5000
+Block 3 size: 8000
+Block 4 size: 10000
+Process 1 size: 1500
+Process 2 size: 4500
+Process 3 size: 8888
+
+Choose the method of fitting you want to use:
+    1. First fit
+    2. Next fit
+    3. Best fit
+    4. Worst fit
+    5. Exit
+1
+
+Process  Process time   block        fragmentation
+0         1500           2            5000
+1         4500           3            8000
+2         8888           4            10000
+
+Choose the method of fitting you want to use:
+    1. First fit
+    2. Next fit
+    3. Best fit
+    4. Worst fit
+    5. Exit
+2
+
+Process  Process time   block        fragmentation
+0         1500           Waiting...   -
+1         4500           Waiting...   -
+2         8888           Waiting...   -
+
+Choose the method of fitting you want to use:
+    1. First fit
+    2. Next fit
+    3. Best fit
+    4. Worst fit
+    5. Exit
+3
+
+Process  Process time   block        fragmentation
+0         1500           2            3500
+1         4500           3            3500
+2         8888           4            1112
+
+Choose the method of fitting you want to use:
+    1. First fit
+    2. Next fit
+    3. Best fit
+    4. Worst fit
+    5. Exit
+4
+
+Process  Process time   block        fragmentation
+0         1500           4            8500
+1         4500           4            4000
+2         8888           Waiting...   -
+
+Choose the method of fitting you want to use:
+    1. First fit
+    2. Next fit
+    3. Best fit
+    4. Worst fit
+    5. Exit
+5
+Thank you

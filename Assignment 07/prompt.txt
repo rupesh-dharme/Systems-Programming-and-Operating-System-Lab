@@ -1,0 +1,3 @@
+How do you want to syncronize your time? 
+    1. NTP
+    2. Lamports clock

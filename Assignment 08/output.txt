@@ -1,0 +1,35 @@
+PS C:\Users\HP\Rupesh\PICT\TE SEM 1\LP1\SPOS Lab\Assignment 08> python 31124_Rupesh_LP1_Assignment_08.pyAssignment_08.py
+Enter Process or 'quit': 1 a
+Enter Process or 'quit': 3 i
+Enter Process or 'quit': 4 a
+Enter Process or 'quit': 8 a
+Enter Process or 'quit': quit
+Thank you
+Elected using Bully algorithm: 8
+Elected using Ring algorithm: 8                         
+
+
+PS C:\Users\HP\Rupesh\PICT\TE SEM 1\LP1\SPOS Lab\Assignment 08> python 31124_Rupesh_LP1_Assignment_08.py
+Enter Process or 'quit': 2 a
+Enter Process or 'quit': 1 a
+Enter Process or 'quit': 11 i
+Enter Process or 'quit': 55 a
+Enter Process or 'quit': 12 i
+Enter Process or 'quit': 128 a
+Enter Process or 'quit': quit
+Thank you
+Elected using Bully algorithm: 128
+Elected using Ring algorithm: 128 
+PS C:\Users\HP\Rupesh\PICT\TE SEM 1\LP1\SPOS Lab\Assignment 08>
+
+PS C:\Users\HP\Rupesh\PICT\TE SEM 1\LP1\SPOS Lab\Assignment 08> pyth 08> python 31124_Rupesh_LP1_Assignment_08.py
+Enter Process or 'quit': 10 a 
+Enter Process or 'quit': 9 i
+Enter Process or 'quit': 8 a
+Enter Process or 'quit': 11 i
+Enter Process or 'quit': 5 a
+Enter Process or 'quit': 5 a
+Enter Process or 'quit': quit
+Thank you
+Elected using Bully algorithm: 10
+Elected using Ring algorithm: 10

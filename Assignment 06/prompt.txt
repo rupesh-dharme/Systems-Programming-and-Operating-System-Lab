@@ -1,0 +1,7 @@
+
+Choose the method of fitting you want to use:
+    1. First fit
+    2. Next fit
+    3. Best fit
+    4. Worst fit
+    5. Exit
